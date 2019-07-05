@@ -1,7 +1,7 @@
 # Data Analysis
 1 - Out of 576 total players, the majority (84%) are male. Female players make up a smaller, but still notable, proportion at 14% and other/undisclosed are just under 2%. <br>
 2 - Although female players make up a smaller portion of the total players, they spend more money on in-game purchases ($4.47, on average) compared to male players ($4.07, on average). <br>
-3 - The most popular age group for players is 20-24 (45%), followed by 15-19 (18.5%) and 25-29 (13%).
+3 - The most popular age group for players is 20-24 (45%), followed by ages 15-19 (18.5%), and ages 25-29 (13%).
 
 # Unit 4 | Assignment - Pandas, Pandas, Pandas
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
